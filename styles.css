@@ -1,0 +1,20 @@
+body {
+    color: black;
+    background: lightblue;
+    margin: 0px;
+      }
+
+      header {
+
+      border-bottom: solid 2 px #add8e6
+      padding: 20px;
+      font-size: 32px;
+    
+    }
+
+    section{
+      background: #add8e6;
+      display:flex;
+    
+    
+    }
